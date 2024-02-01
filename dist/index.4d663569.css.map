@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;AAIA","sources":["src/styles.css"],"sourcesContent":["body {\n  font-family: 'Circular Std', Roboto, Arial, sans-serif !important;\n}\n\nbody * {\n  font-family: inherit;\n}\n"],"names":[],"version":3,"file":"index.4d663569.css.map","sourceRoot":"/__parcel_source_root/"}
